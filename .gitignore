@@ -1,3 +1,9 @@
 *.png
 *.jpg
 *.ico
+
+.venv/
+dist/
+build/
+
+*.spec
